@@ -18,5 +18,4 @@ Concept:-
 3. If user entered incorrect password then LCD will display "Incorrect" and motor will not rotate, eventually door will not open.
 
 Keil-Microvision 5 software is used for programming.
-![Project Screenshot](![Project Screenshot](assets/image.png)
-)
+
