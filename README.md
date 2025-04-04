@@ -19,7 +19,7 @@ Concept:-
 
 Keil-Microvision 5 software is used for programming.
 
-![Alt Text](image_url)
+![Alt Text](https://github.com/Mahak5123/Door-Lock-system/blob/c64ff2a4dc5458a9302106bc378c5f21c28e5a26/SS1.jpeg)
 
 ![Alt Text](image_url)
 
